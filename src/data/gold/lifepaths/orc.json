@@ -429,7 +429,7 @@
       ],
       "traits": [
         2,
-        "Born To Rule Them All",
+        "Born to Rule Them All",
         "Enemy Of The Sun"
       ],
       "common_traits": [
@@ -1284,7 +1284,7 @@
     }
   },
   "Servant Of The Dark Blood Subsetting": {
-    "Slave To The Dark": {
+    "Slave to The Dark": {
       "time": 6,
       "res": 3,
       "leads": [

@@ -5918,7 +5918,7 @@
       ],
       "traits": [
         2,
-        "Born To Be King",
+        "Born to Be King",
         "Noblesse Oblige",
         "Regal Bearing",
         "Pompous",
@@ -6154,7 +6154,7 @@
         2,
         "Earthy Smell",
         "Salt Of The Earth",
-        "Down To Earth",
+        "Down to Earth",
         "Affinity For Plants"
       ],
       "key_leads": [
@@ -6928,7 +6928,7 @@
       ],
       "traits": [
         2,
-        "Prone To Exaggeration",
+        "Prone to Exaggeration",
         "Flatterer",
         "Denouncer",
         "Cynical",
@@ -7310,7 +7310,7 @@
       "traits": [
         1,
         "Stern Demeanor",
-        "Amenable To Other Options"
+        "Amenable to Other Options"
       ],
       "requires": "Judge, Captain, Bailiff or Lord",
       "requires_expr": [
@@ -7503,7 +7503,7 @@
         "Religious Subsetting"
       ]
     },
-    "Advisor To The Court": {
+    "Advisor to The Court": {
       "time": "*",
       "time_expr": [
         "+range",
@@ -7715,7 +7715,7 @@
       "traits": [
         2,
         "Claustrophobic",
-        "Resigned To Fate"
+        "Resigned to Fate"
       ],
       "key_leads": [
         "Outcast Subsetting",
@@ -11088,7 +11088,7 @@
         2,
         "Disciplined",
         "Fanatical Devotion",
-        "Sworn To The Order"
+        "Sworn to The Order"
       ],
       "requires": "Squire, Knight or any lifepath from the Professional Soldier setting",
       "requires_expr": [
@@ -11176,7 +11176,7 @@
       ],
       "traits": [
         1,
-        "Keys To The Church",
+        "Keys to The Church",
         "Familiar Face"
       ],
       "key_leads": [
