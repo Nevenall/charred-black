@@ -22,7 +22,7 @@
       ],
       "common_traits": [
         "Born Under The Silver Stars",
-        "Essence Of The Earth",
+        "Essence of The Earth",
         "Fair And Statuesque",
         "First Born",
         "Grief",
@@ -49,8 +49,8 @@
         [
           6,
           "Riding",
-          "Gift Of Speed",
-          "Lay Of The Horse"
+          "Gift of Speed",
+          "Lay of The Horse"
         ]
       ],
       "traits": [
@@ -77,7 +77,7 @@
       "skills": [
         [
           5,
-          "Round Of Harvest",
+          "Round of Harvest",
           "Farming",
           "Firebuilding",
           "Animal Husbandry",
@@ -98,7 +98,7 @@
       "skills": [
         [
           5,
-          "Rhyme Of The Gatherer",
+          "Rhyme of The Gatherer",
           "Herb-wise",
           "Orienteering"
         ]
@@ -117,7 +117,7 @@
       "skills": [
         [
           9,
-          "Hymn Of Scales And Fins",
+          "Hymn of Scales And Fins",
           "Pilot",
           "Boatwright",
           "Knots",
@@ -144,7 +144,7 @@
       "skills": [
         [
           4,
-          "Song Of Flocks And Herds",
+          "Song of Flocks And Herds",
           "Climbing",
           "Wolf-wise"
         ]
@@ -172,8 +172,8 @@
       "skills": [
         [
           6,
-          "Song Of Paths And Ways",
-          "Air Of Gates",
+          "Song of Paths And Ways",
+          "Air of Gates",
           "Foraging",
           "Road-wise"
         ]
@@ -202,7 +202,7 @@
       "skills": [
         [
           7,
-          "Call Of The Wild",
+          "Call of The Wild",
           "Javelin",
           "Bow",
           "Tracking",
@@ -235,7 +235,7 @@
       "skills": [
         [
           5,
-          "Chant Of Offering",
+          "Chant of Offering",
           "Haggling",
           "Conspicuous",
           "Appraisal"
@@ -293,10 +293,10 @@
       "skills": [
         [
           6,
-          "Song Of Arbors",
+          "Song of Arbors",
           "Forest-wise",
           "Tree-wise",
-          "Song Of The Eldar"
+          "Song of The Eldar"
         ]
       ],
       "traits": [
@@ -384,9 +384,9 @@
       "skills": [
         [
           6,
-          "Song Of Songs",
-          "Song Of Soothing",
-          "Lament Of The Westering Sun",
+          "Song of Songs",
+          "Song of Soothing",
+          "Lament of The Westering Sun",
           "Oratory"
         ]
       ],
@@ -415,9 +415,9 @@
       "skills": [
         [
           5,
-          "Song Of Soothing",
-          "Rhyme Of Rules",
-          "Song Of Feasting",
+          "Song of Soothing",
+          "Rhyme of Rules",
+          "Song of Feasting",
           "Fealty-wise"
         ]
       ],
@@ -445,8 +445,8 @@
         [
           6,
           "Homesong",
-          "Lyric Of Healing",
-          "Dignity Of The Wilderlands"
+          "Lyric of Healing",
+          "Dignity of The Wilderlands"
         ]
       ],
       "traits": [
@@ -477,7 +477,7 @@
       "skills": [
         [
           5,
-          "Verse Of Decision",
+          "Verse of Decision",
           "Council Caller"
         ]
       ],
@@ -519,7 +519,7 @@
       ],
       "common_traits": [
         "Born Under The Silver Stars",
-        "Essence Of The Earth",
+        "Essence of The Earth",
         "Fair And Statuesque",
         "First Born",
         "Grief",
@@ -570,8 +570,8 @@
       "skills": [
         [
           6,
-          "Song Of Paths And Ways",
-          "Air Of Gates",
+          "Song of Paths And Ways",
+          "Air of Gates",
           "Scavenging",
           "Streetwise"
         ]
@@ -601,9 +601,9 @@
         [
           5,
           "Sing",
-          "Song Of Songs",
-          "Song Of Soothing",
-          "Lament Of Stars"
+          "Song of Songs",
+          "Song of Soothing",
+          "Lament of Stars"
         ]
       ],
       "traits": [
@@ -631,8 +631,8 @@
       "skills": [
         [
           6,
-          "Lyric Of Law",
-          "Ballad Of History",
+          "Lyric of Law",
+          "Ballad of History",
           "Elven Script",
           "Etiquette",
           "Oratory"
@@ -757,7 +757,7 @@
           9,
           "Weathersong",
           "Rope Chant",
-          "Rhyme Of The Mariner",
+          "Rhyme of The Mariner",
           "Seamanship",
           "Pilot",
           "Spear"
@@ -765,7 +765,7 @@
       ],
       "traits": [
         1,
-        "Call Of The Sea",
+        "Call of The Sea",
         "Rower"
       ],
       "key_leads": [
@@ -790,7 +790,7 @@
       "skills": [
         [
           8,
-          "Slip Of Currents",
+          "Slip of Currents",
           "Supplication to The Wind",
           "Command",
           "Oratory",
@@ -923,7 +923,7 @@
           6,
           "Archcraft",
           "Stonecraft",
-          "Canticle Of Years",
+          "Canticle of Years",
           "Antiphon Union Training"
         ]
       ],
@@ -989,7 +989,7 @@
       "skills": [
         [
           5,
-          "Song Of Form",
+          "Song of Form",
           "Painting"
         ]
       ],
@@ -1017,10 +1017,10 @@
       "skills": [
         [
           11,
-          "Song Of Merriment",
-          "Lament Of Mourning",
-          "Verse Of Friendship",
-          "Tract Of Enmity",
+          "Song of Merriment",
+          "Lament of Mourning",
+          "Verse of Friendship",
+          "Tract of Enmity",
           "Oratory",
           "Conspicuous",
           "Lyre",
@@ -1055,7 +1055,7 @@
       "skills": [
         [
           7,
-          "Code Of Citadels",
+          "Code of Citadels",
           "Etiquette",
           "Administration",
           "Etharch-wise",
@@ -1098,10 +1098,10 @@
           10,
           "Ancient And Obscure History",
           "Research",
-          "Ballad Of History",
-          "Lyric Of Law",
-          "Canticle Of Years",
-          "Rhyme Of Tongues"
+          "Ballad of History",
+          "Lyric of Law",
+          "Canticle of Years",
+          "Rhyme of Tongues"
         ]
       ],
       "traits": [
@@ -1136,7 +1136,7 @@
         [
           10,
           "Council Caller",
-          "Song Of Silence",
+          "Song of Silence",
           "Persuasion",
           "Soothing Platitudes",
           "Ugly Truth",
@@ -1145,7 +1145,7 @@
       ],
       "traits": [
         2,
-        "Servant Of The Citadel"
+        "Servant of The Citadel"
       ],
       "requires": "Loremaster, Bard, Artisan, Steward, Captain, Sea Captain or Patriarch/Martriarch",
       "requires_expr": [
@@ -1191,7 +1191,7 @@
       ],
       "common_traits": [
         "Born Under The Silver Stars",
-        "Essence Of The Earth",
+        "Essence of The Earth",
         "Fair And Statuesque",
         "First Born",
         "Grief",
@@ -1218,12 +1218,12 @@
       "skills": [
         [
           9,
-          "Ages Of The Etharch",
-          "Lyric Of Law",
-          "Ballad Of History",
+          "Ages of The Etharch",
+          "Lyric of Law",
+          "Ballad of History",
           "Oratory",
           "Calligraphy",
-          "Song Of The Eldar"
+          "Song of The Eldar"
         ]
       ],
       "traits": [
@@ -1286,7 +1286,7 @@
       "skills": [
         [
           8,
-          "Song Of Bonding",
+          "Song of Bonding",
           "Sword",
           "Knives",
           "Bow",
@@ -1297,7 +1297,7 @@
       ],
       "traits": [
         2,
-        "Lesson Of One",
+        "Lesson of One",
         "Patient"
       ],
       "requires": "Attendant, Bowyer, Spearbearer, Seafarer or Soldier-Protector",
@@ -1333,7 +1333,7 @@
       "skills": [
         [
           10,
-          "Song Of The Sword",
+          "Song of The Sword",
           "Sword",
           "Armor Training",
           "Shield Training",
@@ -1416,8 +1416,8 @@
       "skills": [
         [
           6,
-          "Song Of Lordship",
-          "Voice Of Ages"
+          "Song of Lordship",
+          "Voice of Ages"
         ],
         [
           4,
@@ -1426,7 +1426,7 @@
       ],
       "traits": [
         1,
-        "Prince/princess Of The Blood"
+        "Prince/princess of The Blood"
       ],
       "requires": "Fea trait and Sword Singer",
       "requires_expr": [
@@ -1461,7 +1461,7 @@
         [
           8,
           "Council Caller",
-          "Voice Of Thunder",
+          "Voice of Thunder",
           "Doom Sayer",
           "Discerner"
         ],
@@ -1472,7 +1472,7 @@
       ],
       "traits": [
         2,
-        "Lord Of Ages"
+        "Lord of Ages"
       ],
       "requires": "Aman trait and either Loremaster or Prince",
       "requires_expr": [
@@ -1511,8 +1511,8 @@
           6,
           "Riding",
           "Animal Husbandry",
-          "Gift Of Speed",
-          "Lay Of The Horse"
+          "Gift of Speed",
+          "Lay of The Horse"
         ]
       ],
       "traits": [
@@ -1540,10 +1540,10 @@
       "skills": [
         [
           8,
-          "Paean Of Deeds",
+          "Paean of Deeds",
           "Mornsong",
           "Evensong",
-          "Recitation Of Ages",
+          "Recitation of Ages",
           "Silver Trumpet"
         ]
       ],
@@ -1572,9 +1572,9 @@
       "skills": [
         [
           6,
-          "Lyric Of Healing",
-          "Song Of Soothing",
-          "Doom Of Strength",
+          "Lyric of Healing",
+          "Song of Soothing",
+          "Doom of Strength",
           "Foraging"
         ]
       ],
@@ -1605,10 +1605,10 @@
           "Stealthy",
           "Bow",
           "Foraging",
-          "Rhyme Of The Pathfinder",
-          "Song Of Soothing",
-          "Threne Of The Chameleon",
-          "Lyric Of Healing"
+          "Rhyme of The Pathfinder",
+          "Song of Soothing",
+          "Threne of The Chameleon",
+          "Lyric of Healing"
         ]
       ],
       "traits": [
@@ -1711,12 +1711,12 @@
           "Shield Training",
           "Knives",
           "Brawling",
-          "Song Of The Sword"
+          "Song of The Sword"
         ]
       ],
       "traits": [
         1,
-        "Sword Of The White Towers"
+        "Sword of The White Towers"
       ],
       "requires": "Second, Soldier-Protector, Soother, Spouse or Spearbearer",
       "requires_expr": [
@@ -1790,7 +1790,7 @@
       "skills": [
         [
           10,
-          "Song Of Burning Bright",
+          "Song of Burning Bright",
           "Lament For The Fallen",
           "Lance",
           "Mounted Combat Training",
@@ -1831,7 +1831,7 @@
       "skills": [
         [
           7,
-          "Paean Of Deeds",
+          "Paean of Deeds",
           "Command",
           "Sword",
           "Shield Training",
@@ -1891,9 +1891,9 @@
           "Command",
           "Tactics",
           "Formation Fighting",
-          "Monody Of The March",
+          "Monody of The March",
           "Silent Fury",
-          "Hymn Of Victory"
+          "Hymn of Victory"
         ]
       ],
       "traits": [
@@ -1975,7 +1975,7 @@
       "skills": [
         [
           5,
-          "Riddle Of Steel",
+          "Riddle of Steel",
           "Etching",
           "Elven Blade-wise"
         ]
@@ -2018,9 +2018,9 @@
       "skills": [
         [
           10,
-          "Strain Of Far Sight",
-          "Anthem Of Courage",
-          "Ballad Of Rage",
+          "Strain of Far Sight",
+          "Anthem of Courage",
+          "Ballad of Rage",
           "Command",
           "Formation Fighting",
           "Administration",

@@ -33,7 +33,7 @@
       ],
       "key_leads": [
         "Black Legion Subsetting",
-        "Servant Of The Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
     "Cattle Slave": {
@@ -126,7 +126,7 @@
         [
           2,
           "Driving",
-          "Beast Of Burden-wise"
+          "Beast of Burden-wise"
         ]
       ],
       "traits": [
@@ -157,7 +157,7 @@
       "traits": [
         2,
         "Tasting The Lash",
-        "Hatred Of Forests",
+        "Hatred of Forests",
         "Back-breaking Labor"
       ]
     },
@@ -430,7 +430,7 @@
       "traits": [
         2,
         "Born to Rule Them All",
-        "Enemy Of The Sun"
+        "Enemy of The Sun"
       ],
       "common_traits": [
         "Cannibal",
@@ -442,7 +442,7 @@
         "Vile Language"
       ],
       "key_leads": [
-        "Servant Of The Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
     "The Rites": {
@@ -489,10 +489,10 @@
       ],
       "key_leads": [
         "Black Legion Subsetting",
-        "Servant Of The Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
-    "Servant Of The Gate": {
+    "Servant of The Gate": {
       "time": 4,
       "res": 7,
       "stat": [
@@ -695,7 +695,7 @@
         [
           5,
           "Mason",
-          "Bastions Of Hatred",
+          "Bastions of Hatred",
           "Mining"
         ]
       ],
@@ -746,7 +746,7 @@
         "bears the lash"
       ],
       "key_leads": [
-        "Servant Of The Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
     "Great One": {
@@ -779,7 +779,7 @@
       ],
       "traits": [
         2,
-        "Flights Of Murderous Fancy",
+        "Flights of Murderous Fancy",
         "Unrelenting Hatred"
       ],
       "requires": "Named and the Born to Rule Them All trait",
@@ -1023,7 +1023,7 @@
       "skills": [
         [
           3,
-          "Brazen Horn Of Despair",
+          "Brazen Horn of Despair",
           "Intimidation",
           "Brawling"
         ]
@@ -1104,7 +1104,7 @@
       "traits": [
         1,
         "Brash",
-        "Cry Of Doom"
+        "Cry of Doom"
       ],
       "requires": "He Who Sits Astride the Howling Black Beast requires Black Hunter or Follower",
       "requires_expr": [
@@ -1279,11 +1279,11 @@
       ],
       "key_leads": [
         "Great And Black Setting",
-        "Servant Of The Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     }
   },
-  "Servant Of The Dark Blood Subsetting": {
+  "Servant of The Dark Blood Subsetting": {
     "Slave to The Dark": {
       "time": 6,
       "res": 3,
@@ -1298,14 +1298,14 @@
       ],
       "traits": [
         2,
-        "Fearful Respect Of The Servants",
+        "Fearful Respect of The Servants",
         "Naked Hatred"
       ],
       "key_leads": [
         "Chattel Setting"
       ]
     },
-    "Drinker Of The Dark": {
+    "Drinker of The Dark": {
       "time": 5,
       "res": 6,
       "stat": [
@@ -1324,7 +1324,7 @@
       "skills": [
         [
           3,
-          "Doctrine Of Night's Blood"
+          "Doctrine of Night's Blood"
         ]
       ],
       "traits": [
@@ -1360,7 +1360,7 @@
       "skills": [
         [
           5,
-          "Rituals Of Blood",
+          "Rituals of Blood",
           "Orcish Torture",
           "Intimidation",
           "Knives"
@@ -1377,7 +1377,7 @@
         "Chattel Setting"
       ]
     },
-    "Knower Of Secrets": {
+    "Knower of Secrets": {
       "time": 6,
       "res": 7,
       "stat": [
@@ -1393,7 +1393,7 @@
       "skills": [
         [
           4,
-          "Rituals Of Night",
+          "Rituals of Night",
           "Vile Poisoner",
           "Foraging"
         ]
@@ -1410,7 +1410,7 @@
         "Black Legion Subsetting"
       ]
     },
-    "Master Of Eight": {
+    "Master of Eight": {
       "time": 8,
       "res": 8,
       "stat": [
@@ -1447,7 +1447,7 @@
         "Black Legion Subsetting"
       ]
     },
-    "Master Of Blood": {
+    "Master of Blood": {
       "time": 7,
       "res": 8,
       "stat": [
@@ -1475,7 +1475,7 @@
         "bloodletter"
       ]
     },
-    "Master Of Darkness": {
+    "Master of Darkness": {
       "time": 7,
       "res": 8,
       "stat": [

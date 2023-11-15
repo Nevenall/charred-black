@@ -485,7 +485,7 @@
       ],
       "traits": [
         1,
-        "Howl Of Doom"
+        "Howl of Doom"
       ],
       "requires": "Shadow-Chaser",
       "requires_expr": [
@@ -612,7 +612,7 @@
         "Wild Pack",
         "Captive",
         "Spirit Hunter",
-        "Ghost Of The Deeping Wood"
+        "Ghost of The Deeping Wood"
       ],
       "skills": [
         [
@@ -640,7 +640,7 @@
         "Wild Pack Setting",
         "Captive Subsetting",
         "Spirit Hunter Subsetting",
-        "Ghost Of The Deeping Wood Subsetting"
+        "Ghost of The Deeping Wood Subsetting"
       ]
     },
     "Scavenger": {
@@ -723,7 +723,7 @@
           5,
           "Primal Bark",
           "Wolfish Hunting",
-          "The Way Of The First Hunter"
+          "The Way of The First Hunter"
         ]
       ],
       "traits": [
@@ -782,7 +782,7 @@
         ]
       ],
       "leads": [
-        "Ghost Of The Deeping Wood"
+        "Ghost of The Deeping Wood"
       ],
       "skills": [
         [
@@ -799,11 +799,11 @@
         "spirit-howler"
       ],
       "key_leads": [
-        "Ghost Of The Deeping Wood Subsetting"
+        "Ghost of The Deeping Wood Subsetting"
       ]
     }
   },
-  "Ghost Of The Deeping Wood Subsetting": {
+  "Ghost of The Deeping Wood Subsetting": {
     "Wandering Lost": {
       "time": 0.5,
       "res": 0,
@@ -820,7 +820,7 @@
       "skills": [
         [
           2,
-          "Nature Of All Things"
+          "Nature of All Things"
         ]
       ],
       "traits": [
@@ -857,7 +857,7 @@
       "skills": [
         [
           3,
-          "Tongue Of The Ancient One"
+          "Tongue of The Ancient One"
         ]
       ],
       "traits": [
@@ -928,14 +928,14 @@
         2,
         "Reclusive",
         "Calmly Paranoid",
-        "Odor Of Spirits"
+        "Odor of Spirits"
       ],
       "requires": "Ancient Journeyer",
       "requires_expr": [
         "ancient journeyer"
       ]
     },
-    "Ghost Of The Wood": {
+    "Ghost of The Wood": {
       "time": 2,
       "res": 10,
       "stat": [
@@ -964,7 +964,7 @@
         "Preternaturally Calm",
         "Watchful",
         "Piercing Gaze",
-        "Stink Of The Ancient"
+        "Stink of The Ancient"
       ]
     }
   }

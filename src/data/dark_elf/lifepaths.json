@@ -1,12 +1,12 @@
 {
-  "Path Of Spite Subsetting": {
+  "Path of Spite Subsetting": {
     "Griever": {
       "time": 3,
       "res": 0,
       "skills": [
         [
           3,
-          "Sorrow Of Truth",
+          "Sorrow of Truth",
           "Dark Elf-wise"
         ]
       ],
@@ -53,8 +53,8 @@
           "Lock Pick",
           "Stealthy",
           "Climbing",
-          "Sleight Of Hand",
-          "Dirge Of Night"
+          "Sleight of Hand",
+          "Dirge of Night"
         ]
       ],
       "traits": [
@@ -83,7 +83,7 @@
           "Escape Artist",
           "Knives",
           "Garrote",
-          "Keen Of Terror"
+          "Keen of Terror"
         ]
       ],
       "traits": [
@@ -135,10 +135,10 @@
       "skills": [
         [
           7,
-          "Sleight Of Hand",
+          "Sleight of Hand",
           "Disguise",
           "Inconspicuous",
-          "Rhyme Of The Unraveller"
+          "Rhyme of The Unraveller"
         ]
       ],
       "traits": [
@@ -194,8 +194,8 @@
           "Persuasion",
           "Soothing Platitudes",
           "Gossip-wise",
-          "Fugue Of Discord",
-          "Litany Of Fools"
+          "Fugue of Discord",
+          "Litany of Fools"
         ]
       ],
       "traits": [
@@ -261,7 +261,7 @@
           "Ancient History",
           "Dwarf-wise",
           "Elven Politics-wise",
-          "Cut Of The Quickened Mind"
+          "Cut of The Quickened Mind"
         ],
         [
           5,

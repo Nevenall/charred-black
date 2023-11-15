@@ -113,7 +113,7 @@
     "type": "die",
     "desc": "Choose a 1D infamous reputation. And suffer -1 to your body of argument whenever you're trying to explain your nature, position, meaning, or special insight."
   },
-  "Never A Moment Of Peace": {
+  "Never A Moment of Peace": {
     "cost": 3,
     "type": "die",
     "desc": "This trait grants the character a 5 rps relationship. This relationship must be with a character who is always bothering or interrupting him. If that character is forced out of his life, someone new will come along. This character just attracts these sort of people! You may invest additional resource points and increase the value of this relationship."
@@ -122,7 +122,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Speaker Of The Secret Language": {
+  "Speaker of The Secret Language": {
     "cost": 1,
     "type": "character"
   },

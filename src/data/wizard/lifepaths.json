@@ -69,7 +69,7 @@
     }
   },
   "Peasant Setting": {
-    "Speaker Of Names": {
+    "Speaker of Names": {
       "time": 7,
       "res": 20,
       "stat": [
@@ -187,7 +187,7 @@
         2,
         "Low Born",
         "Impressive Hat",
-        "Never A Moment Of Peace"
+        "Never A Moment of Peace"
       ],
       "requires": "Wizard's Apprentice, Neophyte Sorcerer, Apt Pupil or Junior Student. This character may not have the Mark of Privilege",
       "requires_expr": [
@@ -786,7 +786,7 @@
         2,
         "Myopic",
         "Bookworm",
-        "Speaker Of The Secret Language"
+        "Speaker of The Secret Language"
       ],
       "requires": "Adjunct or Scholar. May only be taken once",
       "requires_expr": [
@@ -823,7 +823,7 @@
       ],
       "traits": [
         1,
-        "Council Of Mages",
+        "Council of Mages",
         "Imperious Demeanor"
       ],
       "requires": "Master Sorcerer, Master Enchanter or Master Summoner",
@@ -862,7 +862,7 @@
       "traits": [
         3,
         "Stoic",
-        "Master Of Mages",
+        "Master of Mages",
         "Domineering Presence"
       ],
       "requires": "Councillor",
@@ -1133,7 +1133,7 @@
       "traits": [
         2,
         "Creepy",
-        "Invocations Of The Damned",
+        "Invocations of The Damned",
         "Iron Will",
         "Cult Leader"
       ],
@@ -1192,8 +1192,8 @@
       ]
     }
   },
-  "Servant Of The Dark Blood Subsetting": {
-    "Master Of The Weak": {
+  "Servant of The Dark Blood Subsetting": {
+    "Master of The Weak": {
       "time": 7,
       "res": 8,
       "stat": [
@@ -1215,7 +1215,7 @@
         1,
         "Feared Above All"
       ],
-      "requires": "Knower Of Secrets",
+      "requires": "Knower of Secrets",
       "requires_expr": [
         "knower of secrets"
       ]

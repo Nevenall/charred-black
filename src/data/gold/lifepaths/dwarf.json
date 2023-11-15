@@ -819,7 +819,7 @@
         "Dwarven Noble Setting"
       ]
     },
-    "Master Of Arches": {
+    "Master of Arches": {
       "time": 75,
       "res": 75,
       "stat": [
@@ -856,7 +856,7 @@
         "Dwarven Host Subsetting"
       ]
     },
-    "Master Of Forges": {
+    "Master of Forges": {
       "time": 75,
       "res": 75,
       "stat": [
@@ -909,7 +909,7 @@
       "skills": [
         [
           4,
-          "Reason Of Old Stone",
+          "Reason of Old Stone",
           "Stone-wise",
           "Mountain-wise"
         ],
@@ -984,7 +984,7 @@
       "skills": [
         [
           4,
-          "Chronology Of Kings",
+          "Chronology of Kings",
           "Etiquette",
           "Obscure Text-wise"
         ]
@@ -1024,7 +1024,7 @@
       ],
       "traits": [
         2,
-        "Humility In The Face Of Your Betters"
+        "Humility In The Face of Your Betters"
       ],
       "key_leads": [
         "Guilder Setting",
@@ -1257,7 +1257,7 @@
           "Intimidation",
           "Oratory",
           "Command",
-          "Burden Of The Crown-wise"
+          "Burden of The Crown-wise"
         ]
       ],
       "traits": [
@@ -1310,7 +1310,7 @@
       ],
       "traits": [
         1,
-        "Salt Of The Earth"
+        "Salt of The Earth"
       ],
       "key_leads": [
         "Dwarven Outcast Subsetting",
@@ -1825,9 +1825,9 @@
       "skills": [
         [
           5,
-          "Games Of Chance",
+          "Games of Chance",
           "Observation",
-          "Sleight Of Hand",
+          "Sleight of Hand",
           "Cheat-wise"
         ]
       ],

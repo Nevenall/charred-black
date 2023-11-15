@@ -62,7 +62,7 @@
         "Servitude And Captive Setting"
       ]
     },
-    "Head Of Household": {
+    "Head of Household": {
       "time": 15,
       "res": 20,
       "stat": [
@@ -542,7 +542,7 @@
         "Disturbed",
         "Dreamer",
         "Cassandra",
-        "Touch Of Ages"
+        "Touch of Ages"
       ],
       "requires": "Midwife, Country Wife or must be female and character has no more than three lifepaths total.",
       "requires_expr": [
@@ -754,7 +754,7 @@
         1,
         "Bad Egg",
         "Good For Nothing",
-        "Fleet Of Foot"
+        "Fleet of Foot"
       ],
       "restrict": "If chosen this must be the second lifepath and may only be taken once.",
       "requires_expr": [
@@ -913,7 +913,7 @@
       "traits": [
         1,
         "Skinny",
-        "Fleet Of Foot"
+        "Fleet of Foot"
       ],
       "key_leads": [
         "City Dweller Setting",
@@ -1213,7 +1213,7 @@
           "Soothing Platitudes",
           "Ugly Truth",
           "Customer-wise",
-          "Sleight Of Hand"
+          "Sleight of Hand"
         ]
       ],
       "traits": [
@@ -1267,7 +1267,7 @@
           "Soothing Platitudes",
           "Ugly Truth",
           "Customer-wise",
-          "Sleight Of Hand"
+          "Sleight of Hand"
         ]
       ],
       "traits": [
@@ -1321,7 +1321,7 @@
           "Soothing Platitudes",
           "Ugly Truth",
           "Customer-wise",
-          "Sleight Of Hand"
+          "Sleight of Hand"
         ]
       ],
       "traits": [
@@ -1375,7 +1375,7 @@
           "Soothing Platitudes",
           "Ugly Truth",
           "Customer-wise",
-          "Sleight Of Hand"
+          "Sleight of Hand"
         ]
       ],
       "traits": [
@@ -1765,7 +1765,7 @@
       ],
       "traits": [
         1,
-        "Reeks Of Alcohol",
+        "Reeks of Alcohol",
         "Ruddy Complexion"
       ],
       "key_leads": [
@@ -2294,7 +2294,7 @@
       "skills": [
         [
           8,
-          "Rule Of Law",
+          "Rule of Law",
           "Persuasion",
           "Etiquette",
           "Interrogation",
@@ -2478,7 +2478,7 @@
       "traits": [
         1,
         "Sickly",
-        "Fleet Of Foot",
+        "Fleet of Foot",
         "Unheeded"
       ],
       "restrict": "If taken, must be the character's second or third lifepath.",
@@ -2815,7 +2815,7 @@
           5,
           "Inconspicuous",
           "Streetwise",
-          "Sleight Of Hand",
+          "Sleight of Hand",
           "Crowd-wise"
         ]
       ],
@@ -3023,7 +3023,7 @@
           "Write",
           "Read",
           "Philosophy",
-          "Rule Of Law",
+          "Rule of Law",
           "History",
           "Symbology",
           "Anatomy",
@@ -3142,7 +3142,7 @@
       ],
       "traits": [
         1,
-        "Extremely Respectful Of One's Betters",
+        "Extremely Respectful of One's Betters",
         "Bitter",
         "Gifted"
       ],
@@ -3349,7 +3349,7 @@
           "Sing",
           "Falsehood",
           "Conspicuous",
-          "Sleight Of Hand",
+          "Sleight of Hand",
           "Musical Instrument"
         ]
       ],
@@ -4264,7 +4264,7 @@
       ],
       "traits": [
         1,
-        "A Touch Of Madness"
+        "A Touch of Madness"
       ],
       "requires": "Journeyman",
       "requires_expr": [
@@ -4392,7 +4392,7 @@
       "skills": [
         [
           6,
-          "Rule Of Law",
+          "Rule of Law",
           "Bureaucracy",
           "Persuasion",
           "History",
@@ -4789,7 +4789,7 @@
       "skills": [
         [
           5,
-          "Rule Of Law",
+          "Rule of Law",
           "Amercement",
           "Criminal-wise",
           "Interrogation"
@@ -4830,7 +4830,7 @@
         [
           6,
           "Persuasion",
-          "Rule Of Law",
+          "Rule of Law",
           "Administration",
           "Oratory",
           "Law-wise",
@@ -5118,7 +5118,7 @@
       ],
       "traits": [
         1,
-        "Mark Of Privilege",
+        "Mark of Privilege",
         "Your Lordship",
         "Your Grace",
         "Your Eminence"
@@ -5249,7 +5249,7 @@
           8,
           "Write",
           "Read",
-          "Rule Of Law",
+          "Rule of Law",
           "Oratory",
           "Doctrine",
           "Etiquette"
@@ -5897,7 +5897,7 @@
         "Professional Soldier Subsetting"
       ]
     },
-    "Prince Of The Blood": {
+    "Prince of The Blood": {
       "time": "*",
       "time_expr": [
         "+range",
@@ -5982,7 +5982,7 @@
         [
           7,
           "Sing",
-          "Sleight Of Hand",
+          "Sleight of Hand",
           "Climbing",
           "Conspicuous",
           "Throwing",
@@ -5992,7 +5992,7 @@
       "traits": [
         3,
         "Scapegoat",
-        "Aura Of Innocence"
+        "Aura of Innocence"
       ],
       "key_leads": [
         "Outcast Subsetting",
@@ -6050,7 +6050,7 @@
       ],
       "traits": [
         2,
-        "Veneer Of Obedience",
+        "Veneer of Obedience",
         "Lifting Heavy Things",
         "Bored"
       ],
@@ -6153,7 +6153,7 @@
       "traits": [
         2,
         "Earthy Smell",
-        "Salt Of The Earth",
+        "Salt of The Earth",
         "Down to Earth",
         "Affinity For Plants"
       ],
@@ -6255,7 +6255,7 @@
           9,
           "Write",
           "Read",
-          "Rule Of Law",
+          "Rule of Law",
           "Oratory",
           "Doctrine",
           "Etiquette"
@@ -6643,7 +6643,7 @@
       "traits": [
         1,
         "Sworn Homage",
-        "Sense Of Entitlement"
+        "Sense of Entitlement"
       ],
       "requires": "Squire or Cavalryman",
       "requires_expr": [
@@ -6841,7 +6841,7 @@
           "Etiquette",
           "Oratory",
           "Persuasion",
-          "Rule Of Law",
+          "Rule of Law",
           "History"
         ]
       ],
@@ -7106,7 +7106,7 @@
         "Religious Subsetting"
       ]
     },
-    "Master Of Horses": {
+    "Master of Horses": {
       "time": 8,
       "res": 40,
       "leads": [
@@ -7123,7 +7123,7 @@
       ],
       "traits": [
         1,
-        "Love Of The Horse",
+        "Love of The Horse",
         "Low Speech",
         "Affinity For Horses"
       ],
@@ -7140,7 +7140,7 @@
         "Professional Soldier Subsetting"
       ]
     },
-    "Master Of Hounds": {
+    "Master of Hounds": {
       "time": 7,
       "res": 20,
       "leads": [
@@ -7203,7 +7203,7 @@
         1,
         "Homesick",
         "Bored",
-        "Darling Of The Court"
+        "Darling of The Court"
       ],
       "requires": "Any lifepath from the Noble setting",
       "requires_expr": [
@@ -7254,7 +7254,7 @@
           7,
           "Intimidation",
           "Interrogation",
-          "Rule Of Law",
+          "Rule of Law",
           "Outlaw-wise",
           "Village-wise",
           "City-wise",
@@ -7300,7 +7300,7 @@
       "skills": [
         [
           6,
-          "Rule Of Law",
+          "Rule of Law",
           "Amercement",
           "Interrogation",
           "Criminal-wise",
@@ -7336,7 +7336,7 @@
       "skills": [
         [
           5,
-          "Rule Of Law",
+          "Rule of Law",
           "Anatomy",
           "Writ-wise",
           "Observation"
@@ -7391,7 +7391,7 @@
       ],
       "traits": [
         1,
-        "Weight Of The World"
+        "Weight of The World"
       ],
       "requires": "Captain, Baron, Viscount, Count, Duke or Prince",
       "requires_expr": [
@@ -7697,7 +7697,7 @@
         "Professional Soldier Subsetting"
       ]
     },
-    "Captive Of War": {
+    "Captive of War": {
       "time": 4,
       "res": 4,
       "leads": [
@@ -7809,7 +7809,7 @@
           4,
           "Inconspicuous",
           "Streetwise",
-          "Sleight Of Hand"
+          "Sleight of Hand"
         ]
       ],
       "traits": [
@@ -8439,7 +8439,7 @@
           "Cooking",
           "Sewing",
           "Acting",
-          "Sleight Of Hand",
+          "Sleight of Hand",
           "Haggling",
           "Mending",
           "Disguise"
@@ -8467,7 +8467,7 @@
         [
           4,
           "Philosophy",
-          "Rule Of Law",
+          "Rule of Law",
           "Doctrine",
           "Oratory",
           "Arson"
@@ -8504,7 +8504,7 @@
         2,
         "Zealot",
         "Rabble-rouser",
-        "Speaker Of The Secret Language"
+        "Speaker of The Secret Language"
       ],
       "key_leads": [
         "Peasant Setting",
@@ -8840,8 +8840,8 @@
       "traits": [
         2,
         "Mad",
-        "Fear Of Cheese",
-        "Fear Of Wet Noises",
+        "Fear of Cheese",
+        "Fear of Wet Noises",
         "Alarming"
       ],
       "requires": "Cultist, Augur, Neophyte Sorcerer or Arcane Devotee",
@@ -8892,7 +8892,7 @@
       "traits": [
         3,
         "Spooky",
-        "Aura Of Fear",
+        "Aura of Fear",
         "Obscure Aura"
       ],
       "requires": "Cultist, Augur, Neophyte Sorcerer or Arcane Devotee",
@@ -8936,7 +8936,7 @@
         2,
         "A Little Crazy",
         "Gifted",
-        "Mark Of The Beast"
+        "Mark of The Beast"
       ],
       "requires": "Weather Witch, Young Lady, Augur or Midwife",
       "requires_expr": [
@@ -9075,7 +9075,7 @@
       "traits": [
         2,
         "Skinny",
-        "Fleet Of Foot",
+        "Fleet of Foot",
         "Sprinter"
       ],
       "key_leads": [
@@ -9697,7 +9697,7 @@
       "traits": [
         1,
         "Smart",
-        "Sense Of Distance"
+        "Sense of Distance"
       ],
       "requires": "Student, Engineer, Mining Engineer or Artillerist's Mate",
       "requires_expr": [
@@ -9712,7 +9712,7 @@
         "Outcast Subsetting"
       ]
     },
-    "Wizard Of War": {
+    "Wizard of War": {
       "time": 4,
       "res": 20,
       "stat": [
@@ -9871,7 +9871,7 @@
     }
   },
   "Seafaring Setting": {
-    "Son Of A Gun": {
+    "Son of A Gun": {
       "time": 8,
       "res": 3,
       "leads": [
@@ -9914,7 +9914,7 @@
       ],
       "traits": [
         1,
-        "Veneer Of Obedience",
+        "Veneer of Obedience",
         "Curses Like A Sailor",
         "Sprinter"
       ],
@@ -10977,7 +10977,7 @@
           "Falsehood",
           "Etiquette",
           "Administration",
-          "Rule Of Law"
+          "Rule of Law"
         ]
       ],
       "traits": [
@@ -11196,7 +11196,7 @@
       "skills": [
         [
           4,
-          "Rule Of Law",
+          "Rule of Law",
           "Bureaucracy",
           "Church Law",
           "Bribe-wise"
@@ -11696,7 +11696,7 @@
       "skills": [
         [
           6,
-          "Rule Of Law",
+          "Rule of Law",
           "Church Law",
           "Administration",
           "Doctrine",

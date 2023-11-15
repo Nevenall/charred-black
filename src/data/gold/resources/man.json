@@ -8,7 +8,7 @@
         "rp": 3
       },
       {
-        "name": "Run Of The Mill Quality",
+        "name": "Run of The Mill Quality",
         "rp": 5
       },
       {
@@ -29,7 +29,7 @@
             "rp": 2
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 3
           },
           {
@@ -46,7 +46,7 @@
             "rp": 3
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 5
           },
           {
@@ -63,7 +63,7 @@
             "rp": 5
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 10
           },
           {
@@ -80,7 +80,7 @@
             "rp": 4
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 7
           },
           {
@@ -97,7 +97,7 @@
             "rp": 6
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 12
           },
           {
@@ -114,7 +114,7 @@
             "rp": 8
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 15
           },
           {
@@ -131,7 +131,7 @@
             "rp": 10
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 20
           },
           {
@@ -154,7 +154,7 @@
             "rp": 2
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 3
           },
           {
@@ -171,7 +171,7 @@
             "rp": 3
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 6
           },
           {
@@ -188,7 +188,7 @@
             "rp": 5
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 10
           },
           {
@@ -205,7 +205,7 @@
             "rp": 8
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 15
           },
           {
@@ -222,7 +222,7 @@
             "rp": 10
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 20
           },
           {
@@ -239,7 +239,7 @@
             "rp": 25
           },
           {
-            "name": "Run Of The Mill Quality",
+            "name": "Run of The Mill Quality",
             "rp": 50
           },
           {
@@ -306,7 +306,7 @@
     "type": "gear"
   },
   {
-    "name": "Herd Of Animals",
+    "name": "Herd of Animals",
     "rp": 20,
     "type": "property"
   },

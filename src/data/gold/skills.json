@@ -14,7 +14,7 @@
       "Perception"
     ]
   },
-  "Ages Of The Etharch": {
+  "Ages of The Etharch": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -181,7 +181,7 @@
       "Agility"
     ]
   },
-  "Ballad Of History": {
+  "Ballad of History": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -203,7 +203,7 @@
       "Perception"
     ]
   },
-  "Bastions Of Hatred": {
+  "Bastions of Hatred": {
     "stock": "orcish",
     "roots": [
       "Hatred"
@@ -292,7 +292,7 @@
       "Power"
     ]
   },
-  "Brazen Horn Of Despair": {
+  "Brazen Horn of Despair": {
     "stock": "orcish",
     "roots": [
       "Hatred"
@@ -314,7 +314,7 @@
       "Hatred"
     ]
   },
-  "Burden Of The Crown-wise": {
+  "Burden of The Crown-wise": {
     "roots": [
       "Perception"
     ]
@@ -335,7 +335,7 @@
       "Perception"
     ]
   },
-  "Call Of The Wild": {
+  "Call of The Wild": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -419,7 +419,7 @@
       "Will"
     ]
   },
-  "Chronology Of Kings": {
+  "Chronology of Kings": {
     "stock": "dwarven",
     "roots": [
       "Perception"
@@ -475,7 +475,7 @@
       "Agility"
     ]
   },
-  "Code Of Citadels": {
+  "Code of Citadels": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -587,7 +587,7 @@
       "Power"
     ]
   },
-  "Dignity Of The Wilderlands": {
+  "Dignity of The Wilderlands": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -611,7 +611,7 @@
       "Perception"
     ]
   },
-  "Doctrine Of Night's Blood": {
+  "Doctrine of Night's Blood": {
     "stock": "orcish",
     "roots": [
       "Will",
@@ -935,7 +935,7 @@
       "Perception"
     ]
   },
-  "Games Of Chance": {
+  "Games of Chance": {
     "roots": [
       "Perception"
     ]
@@ -1111,7 +1111,7 @@
       "Agility"
     ]
   },
-  "Hymn Of Scales And Fins": {
+  "Hymn of Scales And Fins": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1277,7 +1277,7 @@
       "Perception"
     ]
   },
-  "Lyric Of Law": {
+  "Lyric of Law": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1376,7 +1376,7 @@
       "Power"
     ]
   },
-  "Mouth Of Hell-wise": {
+  "Mouth of Hell-wise": {
     "roots": [
       "Perception"
     ]
@@ -1416,7 +1416,7 @@
       "Perception"
     ]
   },
-  "Nature Of All Things": {
+  "Nature of All Things": {
     "stock": "wolfish",
     "roots": [
       "Will",
@@ -1489,7 +1489,7 @@
       "Perception"
     ]
   },
-  "Paean Of Deeds": {
+  "Paean of Deeds": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1614,7 +1614,7 @@
       "Perception"
     ]
   },
-  "Reason Of Old Stone": {
+  "Reason of Old Stone": {
     "stock": "dwarven",
     "magic": 1,
     "roots": [
@@ -1641,14 +1641,14 @@
       "Perception"
     ]
   },
-  "Rhyme Of The Gatherer": {
+  "Rhyme of The Gatherer": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Perception"
     ]
   },
-  "Rhyme Of The Mariner": {
+  "Rhyme of The Mariner": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1656,19 +1656,19 @@
       "Speed"
     ]
   },
-  "Rhyme Of The Pathfinder": {
+  "Rhyme of The Pathfinder": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Perception"
     ]
   },
-  "Rhythm Of The City-wise": {
+  "Rhythm of The City-wise": {
     "roots": [
       "Perception"
     ]
   },
-  "Riddle Of Steel": {
+  "Riddle of Steel": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1698,13 +1698,13 @@
       "Perception"
     ]
   },
-  "Rituals Of Blood": {
+  "Rituals of Blood": {
     "stock": "orcish",
     "roots": [
       "Will"
     ]
   },
-  "Rituals Of Night": {
+  "Rituals of Night": {
     "stock": "orcish",
     "roots": [
       "Perception"
@@ -1727,7 +1727,7 @@
       "Agility"
     ]
   },
-  "Round Of Harvest": {
+  "Round of Harvest": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1746,7 +1746,7 @@
       "Agility"
     ]
   },
-  "Rule Of Law": {
+  "Rule of Law": {
     "roots": [
       "Perception"
     ]
@@ -1889,12 +1889,12 @@
       "Perception"
     ]
   },
-  "Sleight Of Hand": {
+  "Sleight of Hand": {
     "roots": [
       "Agility"
     ]
   },
-  "Slip Of Currents": {
+  "Slip of Currents": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1915,13 +1915,13 @@
       "Perception"
     ]
   },
-  "Song Of The Eldar": {
+  "Song of The Eldar": {
     "stock": "elven",
     "roots": [
       "Perception"
     ]
   },
-  "Song Of Feasting": {
+  "Song of Feasting": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -1929,35 +1929,35 @@
       "Agility"
     ]
   },
-  "Song Of Flocks And Herds": {
+  "Song of Flocks And Herds": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Form": {
+  "Song of Form": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Lordship": {
+  "Song of Lordship": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Paths And Ways": {
+  "Song of Paths And Ways": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Perception"
     ]
   },
-  "Song Of Soothing": {
+  "Song of Soothing": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2175,7 +2175,7 @@
       "Perception"
     ]
   },
-  "The Way Of The First Hunter": {
+  "The Way of The First Hunter": {
     "stock": "wolfish",
     "roots": [
       "Will",
@@ -2195,7 +2195,7 @@
       "Agility"
     ]
   },
-  "Tongue Of The Ancient One": {
+  "Tongue of The Ancient One": {
     "stock": "wolfish",
     "roots": [
       "Perception"
@@ -2332,7 +2332,7 @@
       "Perception"
     ]
   },
-  "Voice Of Thunder": {
+  "Voice of Thunder": {
     "stock": "elven",
     "roots": [
       "Will",
@@ -2459,7 +2459,7 @@
       "Agility"
     ]
   },
-  "Air Of Gates": {
+  "Air of Gates": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2473,28 +2473,28 @@
       "Will"
     ]
   },
-  "Anthem Of Courage": {
+  "Anthem of Courage": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Ballad Of Rage": {
+  "Ballad of Rage": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Canticle Of Years": {
+  "Canticle of Years": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Chant Of Offering": {
+  "Chant of Offering": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2515,7 +2515,7 @@
       "Will"
     ]
   },
-  "Doom Of Strength": {
+  "Doom of Strength": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2536,14 +2536,14 @@
       "Will"
     ]
   },
-  "Gift Of Speed": {
+  "Gift of Speed": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Hymn Of Victory": {
+  "Hymn of Victory": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2564,49 +2564,49 @@
       "Will"
     ]
   },
-  "Lament Of Mourning": {
+  "Lament of Mourning": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Lament Of Stars": {
+  "Lament of Stars": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Lament Of The Westering Sun": {
+  "Lament of The Westering Sun": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Lay Of The Horse": {
+  "Lay of The Horse": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Litany Of Responsibilities": {
+  "Litany of Responsibilities": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Lyric Of Healing": {
+  "Lyric of Healing": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Monody Of The March": {
+  "Monody of The March": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2620,77 +2620,77 @@
       "Will"
     ]
   },
-  "Recitation Of Ages": {
+  "Recitation of Ages": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Rhyme Of Rules": {
+  "Rhyme of Rules": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Rhyme Of Tongues": {
+  "Rhyme of Tongues": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Arbors": {
+  "Song of Arbors": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Bonding": {
+  "Song of Bonding": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Burning Bright": {
+  "Song of Burning Bright": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Merriment": {
+  "Song of Merriment": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Silence": {
+  "Song of Silence": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of Songs": {
+  "Song of Songs": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Song Of The Sword": {
+  "Song of The Sword": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Strain Of Far Sight": {
+  "Strain of Far Sight": {
     "stock": "elven",
     "magic": 1,
     "roots": [
@@ -2704,35 +2704,35 @@
       "Will"
     ]
   },
-  "Threne Of The Chameleon": {
+  "Threne of The Chameleon": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Tract Of Enmity": {
+  "Tract of Enmity": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Verse Of Decision": {
+  "Verse of Decision": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Verse Of Friendship": {
+  "Verse of Friendship": {
     "stock": "elven",
     "magic": 1,
     "roots": [
       "Will"
     ]
   },
-  "Voice Of Ages": {
+  "Voice of Ages": {
     "stock": "elven",
     "magic": 1,
     "roots": [

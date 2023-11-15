@@ -228,32 +228,32 @@
     "type": "die",
     "desc": "Someone who is an Atravieso is always getting his hands into everything, fiddling with every little thing he can. When in any new place, or a stressful situation, the character must pass an Ob 3 Will test to resist touching and fiddling. If he fails the test, the character goes for the most fragile/breakable/dangerous objects around -- beakers in the laboratory, eggs in the hen house, detonators in the bomb shop, the queen's dress at court, etc -- and well, fiddles with them."
   },
-  "Aura Of Innocence": {
+  "Aura of Innocence": {
     "cost": 2,
     "type": "call_on",
     "desc": "This character projects the appearance of being completely free of taint and guilt in any crime. No one would ever suspect him. This is a call-on for Falsehood or Inconspicuous when dodging guilt."
   },
-  "Aura Of Determination": {
+  "Aura of Determination": {
     "cost": 5,
     "type": "call_on",
     "desc": "This trait allows the character and everyone within his presence to reroll one test in a great effort."
   },
-  "Aura Of Fear": {
+  "Aura of Fear": {
     "cost": 5,
     "type": "die",
     "desc": "This character emanates fear. When entering his presence, all must pass a Steel test. Once the Steel test is made, the victim character does not have to test again until the next time he encounters this fearful creature."
   },
-  "Aura Of Holiness": {
+  "Aura of Holiness": {
     "cost": 7,
     "type": "die",
     "desc": "This character is bathed in a divine light. Any character with the Lawbreaker, Dreaded, Spirit Nature or Aura of Malevolence trait must immediately take a Steel test when entering the holy character's presence. Add the holy character's Will exponent to the hesitation obstacle. In addition, the holy man's Suasion dice are always considered open-ended."
   },
-  "Aura Of Malevolence": {
+  "Aura of Malevolence": {
     "cost": 6,
     "type": "die",
     "desc": "This character is evil, and everyone knows it. Little children run away crying, dogs bark maniacally. This character, and all his cohorts within his Presence gain +2D to Intimidate or Interrogate. If the malevolent character has other characters helping him Intimidate, each character grants an additional helping dice over what they would normally give. Only one effect may be used at a time."
   },
-  "Aura Of Martyrdom": {
+  "Aura of Martyrdom": {
     "cost": 3,
     "type": "die",
     "desc": "He will die for our sins. We all know it. We all want it (not that we would do anything to speed the process along...). In him we shall be redeemed. The player whose character possesses this trait earns persona artha for personal goals when talking steps in the game to martyr his character. The character must die for a lost cause -- preferably religious. Should this glorious death transpire, the character's remains instantly become holy relics. The first person to gather up those remains is granted all of the martyr's remaining artha. If he had no artha left at the time of his death, the relic grants a deeds point to its new owner. Lastly, after the artha/deeds point is spent from the remains, they become a suitable matrix for Enchanting. See the Enchanting rules in the Magic Burner."
@@ -607,7 +607,7 @@
     ],
     "desc": "The Elven Attendant learns that an implacable visage is crucial to winning favor and advancement in the Elven court. To portray fear and agitation is to betray oneself. Call-on for Steel in the Duel of Wits"
   },
-  "Call Of The Sea": {
+  "Call of The Sea": {
     "cost": 1,
     "type": "character"
   },
@@ -843,7 +843,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Cry Of Doom": {
+  "Cry of Doom": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -905,7 +905,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Darling Of The Court": {
+  "Darling of The Court": {
     "cost": 3,
     "type": "die",
     "desc": "The character is beloved at court. Increase any reputation by +1D"
@@ -962,7 +962,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Dexterity Of The Cat": {
+  "Dexterity of The Cat": {
     "cost": 2,
     "type": "call_on",
     "desc": "This trait can be called on when the character is trying to navigate narrow ledges, branches, rope or walkways. Call-on for Climbing or related Speed tests."
@@ -1170,7 +1170,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Enemy Of The Sun": {
+  "Enemy of The Sun": {
     "cost": 3,
     "type": "die",
     "restrict": [
@@ -1192,7 +1192,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Essence Of The Earth": {
+  "Essence of The Earth": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -1266,7 +1266,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Extremely Respectful Of One's Betters": {
+  "Extremely Respectful of One's Betters": {
     "cost": 1,
     "type": "character"
   },
@@ -1275,7 +1275,7 @@
     "type": "die",
     "desc": "The character may reduce his aptitude for learning social skills by one."
   },
-  "Eye Of The Hunter": {
+  "Eye of The Hunter": {
     "cost": 3,
     "type": "die",
     "desc": "Characters with Eye of the Hunter count their Perception exponent as Observation for detecting Stealthy, Camouflage or similarly concealed characters."
@@ -1306,7 +1306,7 @@
   "Familiar Face": {
     "cost": 2,
     "type": "die",
-    "desc": "Of course he's my friend. I've seen him around here dozens of times! Familiar face is a call-on for Circles tests."
+    "desc": "of course he's my friend. I've seen him around here dozens of times! Familiar face is a call-on for Circles tests."
   },
   "Family Heirloom": {
     "cost": 5,
@@ -1352,15 +1352,15 @@
     ],
     "desc": "Sword Singers trained in the palace of the Etharch are traditionally considered the Prince's own bodyguard. They report directly to him in times of peace and war."
   },
-  "Fear Of Cheese": {
+  "Fear of Cheese": {
     "cost": 1,
     "type": "character"
   },
-  "Fear Of Wet Noises": {
+  "Fear of Wet Noises": {
     "cost": 1,
     "type": "character"
   },
-  "Fearful Respect Of The Servants": {
+  "Fearful Respect of The Servants": {
     "cost": 1,
     "type": "character"
   },
@@ -1411,12 +1411,12 @@
     "cost": 1,
     "type": "character"
   },
-  "Fleet Of Foot": {
+  "Fleet of Foot": {
     "cost": 2,
     "type": "call_on",
     "desc": "Fleet of foot is a call-on for Speed when racing or positioning."
   },
-  "Flights Of Murderous Fancy": {
+  "Flights of Murderous Fancy": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -1661,7 +1661,7 @@
       }
     ]
   },
-  "Hands Of Iron": {
+  "Hands of Iron": {
     "cost": 4,
     "type": "die",
     "desc": "The character's fists (and feet) have been toughened that his hands count as a Power 1 weapon (like a stone, knife or dagger)."
@@ -1705,7 +1705,7 @@
     ],
     "desc": "Hard labor has turned this character's back to stone and his muscles to iron. Round up when factoring Health."
   },
-  "Hatred Of Forests": {
+  "Hatred of Forests": {
     "cost": 1,
     "type": "character"
   },
@@ -1783,7 +1783,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Humility In The Face Of Your Betters": {
+  "Humility In The Face of Your Betters": {
     "cost": 1,
     "type": "character"
   },
@@ -1957,11 +1957,11 @@
     "cost": 1,
     "type": "character"
   },
-  "Joan Of Arc": {
+  "Joan of Arc": {
     "cost": 1,
     "type": "character"
   },
-  "Keen Sense Of Humor": {
+  "Keen Sense of Humor": {
     "cost": 1,
     "type": "character"
   },
@@ -2053,7 +2053,7 @@
     "type": "die",
     "desc": "The beauty of art inspires this character to wild heights. The player must choose an art form and a skill it inspires. When under the influence of his Muse, the character gains +2 open-ended dice to all \"inspired\" skill tests. A character cannot be his own Muse. He cannot recite poetry to himself while he is madly hacking away at his enemies."
   },
-  "Lesson Of One": {
+  "Lesson of One": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -2125,12 +2125,12 @@
     "cost": 1,
     "type": "character"
   },
-  "Long Of Limb": {
+  "Long of Limb": {
     "cost": 4,
     "type": "die",
     "desc": "Abnormally long arms or legs. Long of Limb increases the character's bare-fisted reach in positioning tests to long. If used with a weapon, increase the weapon length by one step."
   },
-  "Lord Of Ages": {
+  "Lord of Ages": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -2162,7 +2162,7 @@
     "type": "die",
     "desc": "When surprised or shocked by a revelation (especially when called on to make a Steel test for such instances), this character is prone to fits of laughter. He may replace \"Stand and Drool\" with \"Belly Laugh\" in his hesitation options. If this doesn't infuriate friends and foes alike, something is wrong in the world."
   },
-  "Love Of The Horse": {
+  "Love of The Horse": {
     "cost": 1,
     "type": "character"
   },
@@ -2237,7 +2237,7 @@
     ],
     "desc": "This character has been horribly maimed during his career. Choose the nature of the disfigurement and associate it with one physical stat, all tests against that stat are +2 Ob. If Forte is chosen, the penalty transfers over to Health, or the mortal wound is reduced by one."
   },
-  "Man Of Few Words": {
+  "Man of Few Words": {
     "cost": 1,
     "type": "character"
   },
@@ -2259,7 +2259,7 @@
     ],
     "desc": "Orcs with this trait actually know how to march in step. Add +1D to Speed for any marching or travel tests, and +1D to Health tests for fatigue, when marching in formation under the lash."
   },
-  "Mark Of Privilege": {
+  "Mark of Privilege": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -2268,7 +2268,7 @@
     ],
     "desc": "Those born into nobility bear certain features-- telltale signs of their lineage. Their nose, their bearing, their skin or even their speech mark them as one of the privileged. This confers a 1D affiliation with nobility but also adds +1 Ob to all Inconspicuous or Falsehood tests when masquerading as someone lower than your station."
   },
-  "Mark Of The Beast": {
+  "Mark of The Beast": {
     "cost": 1,
     "type": "character"
   },
@@ -2466,7 +2466,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Nose Of The Bloodhound": {
+  "Nose of The Bloodhound": {
     "cost": 4,
     "type": "die",
     "desc": "A character with the Nose of the Bloodhound trait can tell a person's or animal's identity via scent and an Ob 1 Perception test. Nose of the Bloodhound also counts as a call-on for Tracking."
@@ -2787,7 +2787,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Prince/princess Of The Blood": {
+  "Prince/princess of The Blood": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -2939,7 +2939,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Reeks Of Alcohol": {
+  "Reeks of Alcohol": {
     "cost": 1,
     "type": "character"
   },
@@ -3035,7 +3035,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Salt Of The Earth": {
+  "Salt of The Earth": {
     "cost": 1,
     "type": "character"
   },
@@ -3125,12 +3125,12 @@
     "cost": 1,
     "type": "character"
   },
-  "Sense Of Direction": {
+  "Sense of Direction": {
     "cost": 2,
     "type": "call_on",
     "desc": "Characters with this trait have a harder time getting lost because they always have a general idea which direction they came from. Sense of Direction can be called on to aid Orienteering and Navigation. This trait is not universal: a farmer has no Sense of Direction at sea; a ranger has no Sense of Direction underground; a sailor doesn't do so well in the mountains."
   },
-  "Sense Of Distance": {
+  "Sense of Distance": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3139,11 +3139,11 @@
     ],
     "desc": "With and Ob 2 Perception test (plus disadvantages for weather and light), this character can correctly guess any distance."
   },
-  "Sense Of Entitlement": {
+  "Sense of Entitlement": {
     "cost": 1,
     "type": "character"
   },
-  "Servant Of The Citadel": {
+  "Servant of The Citadel": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3199,7 +3199,7 @@
       }
     ]
   },
-  "Sight Of The Bat": {
+  "Sight of The Bat": {
     "cost": 6,
     "type": "die",
     "desc": "This is a scary supernatural trait. It negates all penalties for darkness or dim light."
@@ -3221,7 +3221,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Skin Of An Apple": {
+  "Skin of An Apple": {
     "cost": 1,
     "type": "character"
   },
@@ -3454,7 +3454,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Sword Of The White Towers": {
+  "Sword of The White Towers": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3607,17 +3607,17 @@
     ],
     "desc": "This character has symbolically shaved his head as part of the ritual of initiation into his religious order. The Tonsured trait grants a 1D affiliation with a monastic or religious order. Also, the character is authorized to officiate the rituals of his order, whatever the players and GM decide they are. This compounds with other reputations and affiliations in the church."
   },
-  "Touch Of Ages": {
+  "Touch of Ages": {
     "cost": 7,
     "type": "die",
     "desc": "This trait allows the character to \"read\" objects through her touch. A successful Perception test will give impressions present in the object: strong emotion arcana and even age. Type/name of object, Ob 1. Age of object, Ob 2. Length of the time the object has been in its current location, Ob 3. Recent events surrounding the object that left physical evidence, Ob 4. Recent events taht left no physical mark, Ob 5. Past events that left their mark, Ob 6. Past events that left no mark, Ob 7."
   },
-  "Touch Of The Devil": {
+  "Touch of The Devil": {
     "cost": 7,
     "type": "die",
     "desc": "This is an odd but powerful trait. With the touch of the Devil, a character's hands become sensitive and finely tuned instruments. If when making a Perception test, the player can describe how his character is using his hands to sense the disturbance/noise, Perception counts as Gray shade. Detecting soft foot steps on a stone floor, impressions on a piece of paper, cracks in a vial or the breeze through a keyhole, for example. If used in a versus test against Stealthy, Touch of the Devil counts as Observation. Surgery, Pottery, Carpentry, Sewing, Whitesmithing, Etching, Engraving, Carving, Lapidary, and Jewelcraft may root from Gray Perception. WHenever a character with this trait is wounded he suffers an additional automatic superficial wound. These count toward the \"three superficial wounds\" limit and toward incapacitation."
   },
-  "Touch Of Madness": {
+  "Touch of Madness": {
     "cost": 1,
     "type": "character"
   },
@@ -3741,7 +3741,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Veneer Of Obedience": {
+  "Veneer of Obedience": {
     "cost": 1,
     "type": "character"
   },
@@ -3754,7 +3754,7 @@
     ],
     "desc": "Priests become vested in their Order. In Western/Christian canon, the vestment is called a surplice. It is their choir dress, the vestment for processions, the official priestly dress of the lower clergy, the vestment worn by the priest in administering the sacraments and when giving blessings. The right to wear a surplice shows that the character is at the very least a member of the lower clergy. This trait grants a 1D affiliation with the church and its faithful parishioners. This compounds with other reputations and affiliations in the church."
   },
-  "Vigor Of Youth": {
+  "Vigor of Youth": {
     "cost": 5,
     "type": "die",
     "restrict": [
@@ -3824,7 +3824,7 @@
     "type": "die",
     "desc": "\"My joints ache; storm's coming.\" With a twinge in the knee, a stiffening of the joints, back pain or headaches, Weather Sense clues a character into impending weather. Unless the GM plays with strict house weather rules -- I don't -- the Weather Sense in essence gives the player the ability to dictate the weather. Why else would a player pick this trait unless he were concerned about having the right weather for something or other? Anyway, I say let him predict it based on the Perception obstacles below -- and let his predictions come true. Useless vague predictions (\"Rain soon\"), Ob 1. Accurate weather, Ob 2. Approximate location, Ob 3. Approximate time, Ob 4. Accurate time, Ob 5. Each obstacle tier includes all the other effects under it."
   },
-  "Weight Of The World": {
+  "Weight of The World": {
     "cost": 1,
     "type": "character"
   },
@@ -3968,7 +3968,7 @@
     ],
     "desc": "Roden are, in essence, upright and acutely intelligent rodents. Their defining feature is their pronounced incisors curving down from their extended snouts. Covered in fur, Roden bear large ears and long tails. Their feet are long and thickly padded, making shoes unnecessary."
   },
-  "Coat Of Fur": {
+  "Coat of Fur": {
     "cost": 0,
     "type": "call_on",
     "restrict": [
@@ -4322,7 +4322,7 @@
     ],
     "desc": "This tail is thicker and stiffer than most. It can be a surprising weapon during a melee. +2 Power, Add 2, VA - , Speed 2, Long. May not be combined with Whip Tail."
   },
-  "Coat Of Darkness": {
+  "Coat of Darkness": {
     "cost": 5,
     "type": "die",
     "restrict": [
@@ -4340,7 +4340,7 @@
     ],
     "desc": "Fur that normally is no deeper than a finger's length now grows up to four times longer! Knots, tangles, and clumps require extra time to manage."
   },
-  "Fur Of The Fields": {
+  "Fur of The Fields": {
     "cost": 5,
     "type": "die",
     "restrict": [
@@ -4520,7 +4520,7 @@
     ],
     "desc": "Ebon Tyrants are the Dominants of the vast Black Destroyer packs. More than just savage1y and brutality are required to attain this rank. Great Cunning is a necessity. This trait acts as a call-on for Strategy, Tactics, and any \"wise\" tested for insight."
   },
-  "Howl Of Doom": {
+  "Howl of Doom": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -4529,7 +4529,7 @@
     ],
     "desc": "Together the wolf and rider howl, stabbing their victims with cold fear as they charge. The Wolf can howl and force his enemies to make a Steel test\\'97add +4D to the Intimidation test when using the Howl of Doom. This Howl requires 2 actions to perform and cannot be done on the charge\\'97it must be done beforehand. In Range and Cover, it positions with 2D. In Fight it counts as the Longest weapon."
   },
-  "Odor Of Spirits": {
+  "Odor of Spirits": {
     "cost": 0,
     "type": "character",
     "restrict": [
@@ -4604,7 +4604,7 @@
     ],
     "desc": "The Last Wolf is the scapegoat of the pack. All of the anger and frustration is taken out on his hide. No matter how he elevates himself throughout his life, the Last Wolf always bears this stain on his very heart. This trait grants a 1D reputation as a Last Wolf."
   },
-  "Stink Of The Ancient": {
+  "Stink of The Ancient": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -4631,7 +4631,7 @@
     ],
     "desc": "Lone Wolves tend to be overtaken by a wanderlust when they leave their packs. They roam the deep and dark woods, high mountains, lonely tundras and long paths in of a mate, a territory or even darker secrets."
   },
-  "Aura Of Terror": {
+  "Aura of Terror": {
     "cost": 6,
     "type": "character",
     "restrict": [
@@ -4694,7 +4694,7 @@
     ],
     "desc": "This wolf's fur is rough, tangled, unkempt, and even balding in some places."
   },
-  "Mark Of The Ancient": {
+  "Mark of The Ancient": {
     "cost": 5,
     "type": "die",
     "restrict": [
