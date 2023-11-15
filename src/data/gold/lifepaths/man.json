@@ -7503,7 +7503,7 @@
         "Religious Subsetting"
       ]
     },
-    "Advisor to The Court": {
+    "Advisor to the Court": {
       "time": "*",
       "time_expr": [
         "+range",
@@ -11088,7 +11088,7 @@
         2,
         "Disciplined",
         "Fanatical Devotion",
-        "Sworn to The Order"
+        "Sworn to the Order"
       ],
       "requires": "Squire, Knight or any lifepath from the Professional Soldier setting",
       "requires_expr": [
@@ -11176,7 +11176,7 @@
       ],
       "traits": [
         1,
-        "Keys to The Church",
+        "Keys to the Church",
         "Familiar Face"
       ],
       "key_leads": [
