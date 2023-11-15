@@ -23,7 +23,7 @@
         "rp": 3
       },
       {
-        "name": "Run of The Mill Quality",
+        "name": "Run of the Mill Quality",
         "rp": 5
       }
     ]
@@ -54,7 +54,7 @@
         "name": "Reinforced Leather",
         "resources": [
           {
-            "name": "Run of The Mill Quality",
+            "name": "Run of the Mill Quality",
             "rp": 8
           },
           {
@@ -71,7 +71,7 @@
             "rp": 5
           },
           {
-            "name": "Run of The Mill Quality",
+            "name": "Run of the Mill Quality",
             "rp": 12
           }
         ]
@@ -84,7 +84,7 @@
             "rp": 8
           },
           {
-            "name": "Run of The Mill Quality",
+            "name": "Run of the Mill Quality",
             "rp": 20
           }
         ]
@@ -103,7 +103,7 @@
             "rp": 3
           },
           {
-            "name": "Run of The Mill Quality",
+            "name": "Run of the Mill Quality",
             "rp": 5
           }
         ]
@@ -116,7 +116,7 @@
             "rp": 4
           },
           {
-            "name": "Run of The Mill Quality",
+            "name": "Run of the Mill Quality",
             "rp": 6
           }
         ]
@@ -199,7 +199,7 @@
     "type": "gear"
   },
   {
-    "name": "Servant's Tools of The Trade",
+    "name": "Servant's Tools of the Trade",
     "rp": 7,
     "type": "gear"
   },

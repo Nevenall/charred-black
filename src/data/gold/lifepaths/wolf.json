@@ -612,7 +612,7 @@
         "Wild Pack",
         "Captive",
         "Spirit Hunter",
-        "Ghost of The Deeping Wood"
+        "Ghost of the Deeping Wood"
       ],
       "skills": [
         [
@@ -640,7 +640,7 @@
         "Wild Pack Setting",
         "Captive Subsetting",
         "Spirit Hunter Subsetting",
-        "Ghost of The Deeping Wood Subsetting"
+        "Ghost of the Deeping Wood Subsetting"
       ]
     },
     "Scavenger": {
@@ -723,7 +723,7 @@
           5,
           "Primal Bark",
           "Wolfish Hunting",
-          "The Way of The First Hunter"
+          "The Way of the First Hunter"
         ]
       ],
       "traits": [
@@ -782,7 +782,7 @@
         ]
       ],
       "leads": [
-        "Ghost of The Deeping Wood"
+        "Ghost of the Deeping Wood"
       ],
       "skills": [
         [
@@ -799,11 +799,11 @@
         "spirit-howler"
       ],
       "key_leads": [
-        "Ghost of The Deeping Wood Subsetting"
+        "Ghost of the Deeping Wood Subsetting"
       ]
     }
   },
-  "Ghost of The Deeping Wood Subsetting": {
+  "Ghost of the Deeping Wood Subsetting": {
     "Wandering Lost": {
       "time": 0.5,
       "res": 0,
@@ -857,7 +857,7 @@
       "skills": [
         [
           3,
-          "Tongue of The Ancient One"
+          "Tongue of the Ancient One"
         ]
       ],
       "traits": [
@@ -935,7 +935,7 @@
         "ancient journeyer"
       ]
     },
-    "Ghost of The Wood": {
+    "Ghost of the Wood": {
       "time": 2,
       "res": 10,
       "stat": [
@@ -964,7 +964,7 @@
         "Preternaturally Calm",
         "Watchful",
         "Piercing Gaze",
-        "Stink of The Ancient"
+        "Stink of the Ancient"
       ]
     }
   }

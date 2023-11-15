@@ -5897,7 +5897,7 @@
         "Professional Soldier Subsetting"
       ]
     },
-    "Prince of The Blood": {
+    "Prince of the Blood": {
       "time": "*",
       "time_expr": [
         "+range",
@@ -6153,7 +6153,7 @@
       "traits": [
         2,
         "Earthy Smell",
-        "Salt of The Earth",
+        "Salt of the Earth",
         "Down to Earth",
         "Affinity For Plants"
       ],
@@ -7123,7 +7123,7 @@
       ],
       "traits": [
         1,
-        "Love of The Horse",
+        "Love of the Horse",
         "Low Speech",
         "Affinity For Horses"
       ],
@@ -7203,7 +7203,7 @@
         1,
         "Homesick",
         "Bored",
-        "Darling of The Court"
+        "Darling of the Court"
       ],
       "requires": "Any lifepath from the Noble setting",
       "requires_expr": [
@@ -7391,7 +7391,7 @@
       ],
       "traits": [
         1,
-        "Weight of The World"
+        "Weight of the World"
       ],
       "requires": "Captain, Baron, Viscount, Count, Duke or Prince",
       "requires_expr": [
@@ -8504,7 +8504,7 @@
         2,
         "Zealot",
         "Rabble-rouser",
-        "Speaker of The Secret Language"
+        "Speaker of the Secret Language"
       ],
       "key_leads": [
         "Peasant Setting",
@@ -8936,7 +8936,7 @@
         2,
         "A Little Crazy",
         "Gifted",
-        "Mark of The Beast"
+        "Mark of the Beast"
       ],
       "requires": "Weather Witch, Young Lady, Augur or Midwife",
       "requires_expr": [

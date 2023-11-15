@@ -22,7 +22,7 @@
       ],
       "common_traits": [
         "Born Under The Silver Stars",
-        "Essence of The Earth",
+        "Essence of the Earth",
         "Fair And Statuesque",
         "First Born",
         "Grief",
@@ -50,7 +50,7 @@
           6,
           "Riding",
           "Gift of Speed",
-          "Lay of The Horse"
+          "Lay of the Horse"
         ]
       ],
       "traits": [
@@ -98,7 +98,7 @@
       "skills": [
         [
           5,
-          "Rhyme of The Gatherer",
+          "Rhyme of the Gatherer",
           "Herb-wise",
           "Orienteering"
         ]
@@ -202,7 +202,7 @@
       "skills": [
         [
           7,
-          "Call of The Wild",
+          "Call of the Wild",
           "Javelin",
           "Bow",
           "Tracking",
@@ -296,7 +296,7 @@
           "Song of Arbors",
           "Forest-wise",
           "Tree-wise",
-          "Song of The Eldar"
+          "Song of the Eldar"
         ]
       ],
       "traits": [
@@ -386,7 +386,7 @@
           6,
           "Song of Songs",
           "Song of Soothing",
-          "Lament of The Westering Sun",
+          "Lament of the Westering Sun",
           "Oratory"
         ]
       ],
@@ -446,7 +446,7 @@
           6,
           "Homesong",
           "Lyric of Healing",
-          "Dignity of The Wilderlands"
+          "Dignity of the Wilderlands"
         ]
       ],
       "traits": [
@@ -519,7 +519,7 @@
       ],
       "common_traits": [
         "Born Under The Silver Stars",
-        "Essence of The Earth",
+        "Essence of the Earth",
         "Fair And Statuesque",
         "First Born",
         "Grief",
@@ -757,7 +757,7 @@
           9,
           "Weathersong",
           "Rope Chant",
-          "Rhyme of The Mariner",
+          "Rhyme of the Mariner",
           "Seamanship",
           "Pilot",
           "Spear"
@@ -765,7 +765,7 @@
       ],
       "traits": [
         1,
-        "Call of The Sea",
+        "Call of the Sea",
         "Rower"
       ],
       "key_leads": [
@@ -1145,7 +1145,7 @@
       ],
       "traits": [
         2,
-        "Servant of The Citadel"
+        "Servant of the Citadel"
       ],
       "requires": "Loremaster, Bard, Artisan, Steward, Captain, Sea Captain or Patriarch/Martriarch",
       "requires_expr": [
@@ -1191,7 +1191,7 @@
       ],
       "common_traits": [
         "Born Under The Silver Stars",
-        "Essence of The Earth",
+        "Essence of the Earth",
         "Fair And Statuesque",
         "First Born",
         "Grief",
@@ -1218,12 +1218,12 @@
       "skills": [
         [
           9,
-          "Ages of The Etharch",
+          "Ages of the Etharch",
           "Lyric of Law",
           "Ballad of History",
           "Oratory",
           "Calligraphy",
-          "Song of The Eldar"
+          "Song of the Eldar"
         ]
       ],
       "traits": [
@@ -1333,7 +1333,7 @@
       "skills": [
         [
           10,
-          "Song of The Sword",
+          "Song of the Sword",
           "Sword",
           "Armor Training",
           "Shield Training",
@@ -1426,7 +1426,7 @@
       ],
       "traits": [
         1,
-        "Prince/princess of The Blood"
+        "Prince/princess of the Blood"
       ],
       "requires": "Fea trait and Sword Singer",
       "requires_expr": [
@@ -1512,7 +1512,7 @@
           "Riding",
           "Animal Husbandry",
           "Gift of Speed",
-          "Lay of The Horse"
+          "Lay of the Horse"
         ]
       ],
       "traits": [
@@ -1605,9 +1605,9 @@
           "Stealthy",
           "Bow",
           "Foraging",
-          "Rhyme of The Pathfinder",
+          "Rhyme of the Pathfinder",
           "Song of Soothing",
-          "Threne of The Chameleon",
+          "Threne of the Chameleon",
           "Lyric of Healing"
         ]
       ],
@@ -1711,12 +1711,12 @@
           "Shield Training",
           "Knives",
           "Brawling",
-          "Song of The Sword"
+          "Song of the Sword"
         ]
       ],
       "traits": [
         1,
-        "Sword of The White Towers"
+        "Sword of the White Towers"
       ],
       "requires": "Second, Soldier-Protector, Soother, Spouse or Spearbearer",
       "requires_expr": [
@@ -1891,7 +1891,7 @@
           "Command",
           "Tactics",
           "Formation Fighting",
-          "Monody of The March",
+          "Monody of the March",
           "Silent Fury",
           "Hymn of Victory"
         ]

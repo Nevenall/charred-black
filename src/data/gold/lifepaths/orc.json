@@ -33,7 +33,7 @@
       ],
       "key_leads": [
         "Black Legion Subsetting",
-        "Servant of The Dark Blood Subsetting"
+        "Servant of the Dark Blood Subsetting"
       ]
     },
     "Cattle Slave": {
@@ -430,7 +430,7 @@
       "traits": [
         2,
         "Born to Rule Them All",
-        "Enemy of The Sun"
+        "Enemy of the Sun"
       ],
       "common_traits": [
         "Cannibal",
@@ -442,7 +442,7 @@
         "Vile Language"
       ],
       "key_leads": [
-        "Servant of The Dark Blood Subsetting"
+        "Servant of the Dark Blood Subsetting"
       ]
     },
     "The Rites": {
@@ -489,10 +489,10 @@
       ],
       "key_leads": [
         "Black Legion Subsetting",
-        "Servant of The Dark Blood Subsetting"
+        "Servant of the Dark Blood Subsetting"
       ]
     },
-    "Servant of The Gate": {
+    "Servant of the Gate": {
       "time": 4,
       "res": 7,
       "stat": [
@@ -746,7 +746,7 @@
         "bears the lash"
       ],
       "key_leads": [
-        "Servant of The Dark Blood Subsetting"
+        "Servant of the Dark Blood Subsetting"
       ]
     },
     "Great One": {
@@ -1279,11 +1279,11 @@
       ],
       "key_leads": [
         "Great And Black Setting",
-        "Servant of The Dark Blood Subsetting"
+        "Servant of the Dark Blood Subsetting"
       ]
     }
   },
-  "Servant of The Dark Blood Subsetting": {
+  "Servant of the Dark Blood Subsetting": {
     "Slave to The Dark": {
       "time": 6,
       "res": 3,
@@ -1298,14 +1298,14 @@
       ],
       "traits": [
         2,
-        "Fearful Respect of The Servants",
+        "Fearful Respect of the Servants",
         "Naked Hatred"
       ],
       "key_leads": [
         "Chattel Setting"
       ]
     },
-    "Drinker of The Dark": {
+    "Drinker of the Dark": {
       "time": 5,
       "res": 6,
       "stat": [

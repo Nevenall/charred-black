@@ -607,7 +607,7 @@
     ],
     "desc": "The Elven Attendant learns that an implacable visage is crucial to winning favor and advancement in the Elven court. To portray fear and agitation is to betray oneself. Call-on for Steel in the Duel of Wits"
   },
-  "Call of The Sea": {
+  "Call of the Sea": {
     "cost": 1,
     "type": "character"
   },
@@ -905,7 +905,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Darling of The Court": {
+  "Darling of the Court": {
     "cost": 3,
     "type": "die",
     "desc": "The character is beloved at court. Increase any reputation by +1D"
@@ -962,7 +962,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Dexterity of The Cat": {
+  "Dexterity of the Cat": {
     "cost": 2,
     "type": "call_on",
     "desc": "This trait can be called on when the character is trying to navigate narrow ledges, branches, rope or walkways. Call-on for Climbing or related Speed tests."
@@ -1170,7 +1170,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Enemy of The Sun": {
+  "Enemy of the Sun": {
     "cost": 3,
     "type": "die",
     "restrict": [
@@ -1192,7 +1192,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Essence of The Earth": {
+  "Essence of the Earth": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -1275,7 +1275,7 @@
     "type": "die",
     "desc": "The character may reduce his aptitude for learning social skills by one."
   },
-  "Eye of The Hunter": {
+  "Eye of the Hunter": {
     "cost": 3,
     "type": "die",
     "desc": "Characters with Eye of the Hunter count their Perception exponent as Observation for detecting Stealthy, Camouflage or similarly concealed characters."
@@ -1360,7 +1360,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Fearful Respect of The Servants": {
+  "Fearful Respect of the Servants": {
     "cost": 1,
     "type": "character"
   },
@@ -2162,7 +2162,7 @@
     "type": "die",
     "desc": "When surprised or shocked by a revelation (especially when called on to make a Steel test for such instances), this character is prone to fits of laughter. He may replace \"Stand and Drool\" with \"Belly Laugh\" in his hesitation options. If this doesn't infuriate friends and foes alike, something is wrong in the world."
   },
-  "Love of The Horse": {
+  "Love of the Horse": {
     "cost": 1,
     "type": "character"
   },
@@ -2268,7 +2268,7 @@
     ],
     "desc": "Those born into nobility bear certain features-- telltale signs of their lineage. Their nose, their bearing, their skin or even their speech mark them as one of the privileged. This confers a 1D affiliation with nobility but also adds +1 Ob to all Inconspicuous or Falsehood tests when masquerading as someone lower than your station."
   },
-  "Mark of The Beast": {
+  "Mark of the Beast": {
     "cost": 1,
     "type": "character"
   },
@@ -2466,7 +2466,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Nose of The Bloodhound": {
+  "Nose of the Bloodhound": {
     "cost": 4,
     "type": "die",
     "desc": "A character with the Nose of the Bloodhound trait can tell a person's or animal's identity via scent and an Ob 1 Perception test. Nose of the Bloodhound also counts as a call-on for Tracking."
@@ -2787,7 +2787,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Prince/princess of The Blood": {
+  "Prince/princess of the Blood": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3035,7 +3035,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Salt of The Earth": {
+  "Salt of the Earth": {
     "cost": 1,
     "type": "character"
   },
@@ -3143,7 +3143,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Servant of The Citadel": {
+  "Servant of the Citadel": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3199,7 +3199,7 @@
       }
     ]
   },
-  "Sight of The Bat": {
+  "Sight of the Bat": {
     "cost": 6,
     "type": "die",
     "desc": "This is a scary supernatural trait. It negates all penalties for darkness or dim light."
@@ -3454,7 +3454,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Sword of The White Towers": {
+  "Sword of the White Towers": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3612,7 +3612,7 @@
     "type": "die",
     "desc": "This trait allows the character to \"read\" objects through her touch. A successful Perception test will give impressions present in the object: strong emotion arcana and even age. Type/name of object, Ob 1. Age of object, Ob 2. Length of the time the object has been in its current location, Ob 3. Recent events surrounding the object that left physical evidence, Ob 4. Recent events taht left no physical mark, Ob 5. Past events that left their mark, Ob 6. Past events that left no mark, Ob 7."
   },
-  "Touch of The Devil": {
+  "Touch of the Devil": {
     "cost": 7,
     "type": "die",
     "desc": "This is an odd but powerful trait. With the touch of the Devil, a character's hands become sensitive and finely tuned instruments. If when making a Perception test, the player can describe how his character is using his hands to sense the disturbance/noise, Perception counts as Gray shade. Detecting soft foot steps on a stone floor, impressions on a piece of paper, cracks in a vial or the breeze through a keyhole, for example. If used in a versus test against Stealthy, Touch of the Devil counts as Observation. Surgery, Pottery, Carpentry, Sewing, Whitesmithing, Etching, Engraving, Carving, Lapidary, and Jewelcraft may root from Gray Perception. WHenever a character with this trait is wounded he suffers an additional automatic superficial wound. These count toward the \"three superficial wounds\" limit and toward incapacitation."
@@ -3824,7 +3824,7 @@
     "type": "die",
     "desc": "\"My joints ache; storm's coming.\" With a twinge in the knee, a stiffening of the joints, back pain or headaches, Weather Sense clues a character into impending weather. Unless the GM plays with strict house weather rules -- I don't -- the Weather Sense in essence gives the player the ability to dictate the weather. Why else would a player pick this trait unless he were concerned about having the right weather for something or other? Anyway, I say let him predict it based on the Perception obstacles below -- and let his predictions come true. Useless vague predictions (\"Rain soon\"), Ob 1. Accurate weather, Ob 2. Approximate location, Ob 3. Approximate time, Ob 4. Accurate time, Ob 5. Each obstacle tier includes all the other effects under it."
   },
-  "Weight of The World": {
+  "Weight of the World": {
     "cost": 1,
     "type": "character"
   },
@@ -4340,7 +4340,7 @@
     ],
     "desc": "Fur that normally is no deeper than a finger's length now grows up to four times longer! Knots, tangles, and clumps require extra time to manage."
   },
-  "Fur of The Fields": {
+  "Fur of the Fields": {
     "cost": 5,
     "type": "die",
     "restrict": [
@@ -4604,7 +4604,7 @@
     ],
     "desc": "The Last Wolf is the scapegoat of the pack. All of the anger and frustration is taken out on his hide. No matter how he elevates himself throughout his life, the Last Wolf always bears this stain on his very heart. This trait grants a 1D reputation as a Last Wolf."
   },
-  "Stink of The Ancient": {
+  "Stink of the Ancient": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -4694,7 +4694,7 @@
     ],
     "desc": "This wolf's fur is rough, tangled, unkempt, and even balding in some places."
   },
-  "Mark of The Ancient": {
+  "Mark of the Ancient": {
     "cost": 5,
     "type": "die",
     "restrict": [
