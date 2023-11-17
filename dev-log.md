@@ -14,3 +14,5 @@ may be something more like dnd beyond
 
 That is verging towards burning wheel in foundry. 
 
+for the fun, we'll use gun and svelte. 
+
