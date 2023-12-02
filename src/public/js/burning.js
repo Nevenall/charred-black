@@ -159,6 +159,16 @@ function BurningCtrl($scope, $http, $modal, $timeout, settings, appropriateWeapo
         return $scope.attribute("Spite").shade;
       }
     };
+    $scope.statsForSkillCalc["Grief"] = {
+      "exp": function(){
+        // Note: this function can't be called until $scope.attribute is defined!
+        return $scope.attribute("Grief").exp;
+      },
+      "calcshade": function(){
+        return $scope.attribute("Grief").shade;
+      }
+    };
+    
     // Setting names for use in the Add Lifepath section
     $scope.settingNames  = ["Loading..."]
     $scope.currentSettingLifepathNames  = [];
