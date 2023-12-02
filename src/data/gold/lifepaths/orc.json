@@ -33,7 +33,7 @@
       ],
       "key_leads": [
         "Black Legion Subsetting",
-        "Servant of the Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
     "Cattle Slave": {
@@ -442,7 +442,7 @@
         "Vile Language"
       ],
       "key_leads": [
-        "Servant of the Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
     "The Rites": {
@@ -489,10 +489,10 @@
       ],
       "key_leads": [
         "Black Legion Subsetting",
-        "Servant of the Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
-    "Servant of the Gate": {
+    "Servant of The Gate": {
       "time": 4,
       "res": 7,
       "stat": [
@@ -746,7 +746,7 @@
         "bears the lash"
       ],
       "key_leads": [
-        "Servant of the Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     },
     "Great One": {
@@ -1279,7 +1279,7 @@
       ],
       "key_leads": [
         "Great And Black Setting",
-        "Servant of the Dark Blood Subsetting"
+        "Servant of The Dark Blood Subsetting"
       ]
     }
   },
@@ -1298,14 +1298,14 @@
       ],
       "traits": [
         2,
-        "Fearful Respect of the Servants",
+        "Fearful Respect of The Servants",
         "Naked Hatred"
       ],
       "key_leads": [
         "Chattel Setting"
       ]
     },
-    "Drinker of the Dark": {
+    "Drinker of The Dark": {
       "time": 5,
       "res": 6,
       "stat": [

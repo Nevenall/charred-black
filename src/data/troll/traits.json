@@ -245,7 +245,7 @@
     ],
     "desc": "No matter how badly wounded, this Troll will always heal. Cuts will close, bones will knit and even lost limbs will regrow. This Troll can never fail a Health test for Recovery (though they can roll poorly, in which case maximum healing time is required for the wound to close). The only way to destroy this beast is to put them to the fire."
   },
-  "Enemy of the Sun (Troll)": {
+  "Enemy of The Sun (Troll)": {
     "cost": 4,
     "type": "die",
     "restrict": [

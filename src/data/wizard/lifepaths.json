@@ -786,7 +786,7 @@
         2,
         "Myopic",
         "Bookworm",
-        "Speaker of the Secret Language"
+        "Speaker of The Secret Language"
       ],
       "requires": "Adjunct or Scholar. May only be taken once",
       "requires_expr": [
@@ -1133,7 +1133,7 @@
       "traits": [
         2,
         "Creepy",
-        "Invocations of the Damned",
+        "Invocations of The Damned",
         "Iron Will",
         "Cult Leader"
       ],
@@ -1192,8 +1192,8 @@
       ]
     }
   },
-  "Servant of the Dark Blood Subsetting": {
-    "Master of the Weak": {
+  "Servant of The Dark Blood Subsetting": {
+    "Master of The Weak": {
       "time": 7,
       "res": 8,
       "stat": [
