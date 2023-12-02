@@ -106,7 +106,7 @@
   "Master of Mages": {
     "cost": 0,
     "type": "die",
-    "desc": "The Headmaster of a College of Magic attained their position by rigorous pursuit of excellence and expertise in sorcery and magic. This trait grants a 2D reputation among mages and the halls of power as a Master of Mages."
+    "desc": "The Headmaster of a College of Magic attained their position by rigorous pursuit of excellence and expertise in sorcery and magic. This trait grants a 2D repuation among mages and the halls of power as a Master of Mages."
   },
   "Outsider": {
     "cost": 2,
