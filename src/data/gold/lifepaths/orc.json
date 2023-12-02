@@ -429,8 +429,8 @@
       ],
       "traits": [
         2,
-        "Born to Rule Them All",
-        "Enemy of the Sun"
+        "Born To Rule Them All",
+        "Enemy Of The Sun"
       ],
       "common_traits": [
         "Cannibal",
@@ -1283,8 +1283,8 @@
       ]
     }
   },
-  "Servant of the Dark Blood Subsetting": {
-    "Slave to The Dark": {
+  "Servant Of The Dark Blood Subsetting": {
+    "Slave To The Dark": {
       "time": 6,
       "res": 3,
       "leads": [

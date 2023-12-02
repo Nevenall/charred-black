@@ -11,7 +11,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Accustomed to The Dark": {
+  "Accustomed To The Dark": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -185,7 +185,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Amenable to Other Options": {
+  "Amenable To Other Options": {
     "cost": 1,
     "type": "character"
   },
@@ -445,7 +445,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Born to Be King": {
+  "Born To Be King": {
     "cost": 5,
     "type": "character",
     "restrict": [
@@ -454,7 +454,7 @@
     ],
     "desc": "This character is a son in the royal line. If he is the eldest, he is the direct heir to the throne. If he is a younger son, he bears no immediate obligation and is free to pursue his own aims. However, the character is a Prince and the obligations of said rank should play heavily on his life. He may, at some point, be called upon to take the throne!"
   },
-  "Born to Rule Them All": {
+  "Born To Rule Them All": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -1051,7 +1051,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Down to Earth": {
+  "Down To Earth": {
     "cost": 0,
     "type": "call_on",
     "restrict": [
@@ -1119,7 +1119,7 @@
     "type": "die",
     "desc": "The character always remembers a voice and is able to pick out conversations over distance and noise. An Ob 3 Perception test allows the character to hear perfectly that conversation across the busy bar."
   },
-  "Ear to The Ground": {
+  "Ear To The Ground": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -1343,7 +1343,7 @@
     ],
     "desc": "The Fêa trait denotes that this Elf has been born into a family whose lineage typically holds the rank of prince. This character need not hold the rank of prince himself, but possessing this trait indicates that he is eligible for the rank. This trait is required if the player wishes to take the Prince lifepath for his character."
   },
-  "Fealty to The Fea": {
+  "Fealty To The Fea": {
     "cost": 0,
     "type": "character",
     "restrict": [
@@ -1979,7 +1979,7 @@
     "type": "die",
     "desc": "This trait can be used to determine the ingredients of a substance sampled by taste. The player can combine this trait with any one of his applicable skills. Using his knowledge and this inborn talent, he can decipher the ingredients or components of a material, substance or compound. If a character had Prospecting and Keen Taste, he could taste earth and determine what components are contained therein. Such an action requires a successful Perception test at an obstacle equal to what it would normally take to create or spot his substance. This test is open-ended. Keen Taste can also be used as a call-on for Alchemy, Apothecary, Herbalism, Wine Tasting, Cooking and Baking."
   },
-  "Keys to The Church": {
+  "Keys To The Church": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -2825,7 +2825,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Prone to Exaggeration": {
+  "Prone To Exaggeration": {
     "cost": 1,
     "type": "character"
   },
@@ -2959,12 +2959,12 @@
     "cost": 1,
     "type": "character"
   },
-  "Resigned (to Death)": {
+  "Resigned (To Death)": {
     "cost": 2,
     "type": "call_on",
     "desc": "This character realizes that he is going to die and has accepted that fact. This trait acts as a call on for Steel test in which the character rightly assumes he is going to die -- when the cause is hopeless, he's badly wounded, everyone else is dead, etc."
   },
-  "Resigned to Fate": {
+  "Resigned To Fate": {
     "cost": 1,
     "type": "character"
   },
@@ -3229,7 +3229,7 @@
     "cost": 1,
     "type": "character"
   },
-  "Slave to Fate": {
+  "Slave To Fate": {
     "cost": 0,
     "type": "character",
     "restrict": [
@@ -3472,7 +3472,7 @@
     ],
     "desc": "The knigght must swear homage to his lord, the king. He promises fealty to his lord; to guard his land and fight in his wars with armor, horse and sword; to manage his land in good stead, to collect and pay taxes; and generally obey the law and uphold the peace. The player doesn't have to write a Belief for this, though it is encouraged. The Sworn Homage trait indicates the belief is internalized. This trait grants a 1D affiliation with the nobility. Should the character fail to perform his duties, then he may be stripped of rank. This compounds with other noble affiliations like Mark of Privelege."
   },
-  "Sworn to Protect": {
+  "Sworn To Protect": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3481,7 +3481,7 @@
     ],
     "desc": "If the Lord Protector's player uses one of his Beliefs to describe his vow to defend the citadel/wilderlands/royalty, and such a vow is relevant to the current game, the Lord Protector receives a 2D reputation (he's the boss) and a 2D major affiliation within the Protectors. These may be further improved upon with resource points"
   },
-  "Sworn to The Lord Protector": {
+  "Sworn To The Lord Protector": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3490,7 +3490,7 @@
     ],
     "desc": "The Captain has sworn a vow to loyally serve his lord. This trait grants a free relationship with the Lord Protector provided the player writes a Belief about him. If the player decides not to write a Belief or the Belief changes, the trait becomes a character trait. If he later writes a Belief about the Lord Protector, the trait is reactivated."
   },
-  "Sworn to The Lord Protector (Or Etharch Or Althing)": {
+  "Sworn To The Lord Protector (Or Etharch Or Althing)": {
     "cost": 0,
     "type": "die",
     "restrict": [
@@ -3499,7 +3499,7 @@
     ],
     "desc": "The character has sworn a vow to loyally serve his lord. This trait grants a free relationship with the chosen lord provided the player writes a Belief about him. If the player decides not to write a Belief or the Belief changes, the trait becomes a character trait. If he later writes a Belief about the lord, the trait is reactivated."
   },
-  "Sworn to The Order": {
+  "Sworn To The Order": {
     "cost": 0,
     "type": "die",
     "restrict": [

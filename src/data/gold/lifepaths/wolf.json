@@ -1,6 +1,6 @@
 {
   "Wild Pack Setting": {
-    "Born to The Pack": {
+    "Born To The Pack": {
       "time": 1,
       "res": 0,
       "leads": [
@@ -313,8 +313,8 @@
       ]
     }
   },
-  "Slave to The Legion Setting": {
-    "Born to The Legion": {
+  "Slave To The Legion Setting": {
+    "Born To The Legion": {
       "time": 1,
       "res": 0,
       "leads": [
@@ -671,7 +671,7 @@
         "captured and broken"
       ],
       "key_leads": [
-        "Slave to The Legion Setting",
+        "Slave To The Legion Setting",
         "Wild Pack Setting",
         "Captive Subsetting"
       ]
@@ -699,7 +699,7 @@
         "Submissive"
       ],
       "key_leads": [
-        "Slave to The Legion Setting",
+        "Slave To The Legion Setting",
         "Outcast Subsetting"
       ]
     }

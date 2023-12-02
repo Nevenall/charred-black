@@ -790,8 +790,8 @@
       "skills": [
         [
           8,
-          "Slip of Currents",
-          "Supplication to The Wind",
+          "Slip Of Currents",
+          "Supplication To The Wind",
           "Command",
           "Oratory",
           "Sword"
@@ -1343,7 +1343,7 @@
       ],
       "traits": [
         1,
-        "Fealty to The Fea",
+        "Fealty To The Fea",
         "Cool Headed"
       ],
       "requires": "Second, Lancer or Lieutenant",
@@ -1840,7 +1840,7 @@
       ],
       "traits": [
         1,
-        "Ear to The Ground"
+        "Ear To The Ground"
       ],
       "requires": "Sword Singer, Lancer, Sea Captain or two Bowyer/Spearbearer lifepaths",
       "requires_expr": [
@@ -1898,7 +1898,7 @@
       ],
       "traits": [
         2,
-        "Sworn to The Lord Protector (Or Etharch Or Althing)"
+        "Sworn To The Lord Protector (Or Etharch Or Althing)"
       ],
       "requires": "Lieutenant, Prince, Sea Captain, Steward or two Sword Singer lifepaths",
       "requires_expr": [
@@ -2030,7 +2030,7 @@
       ],
       "traits": [
         1,
-        "Sworn to Protect"
+        "Sworn To Protect"
       ],
       "requires": "Captain or Prince",
       "requires_expr": [
